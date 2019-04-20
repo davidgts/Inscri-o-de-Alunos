@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486472908 source:f:\trabalho\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"L_DIN.h"
+
+1486472920 f:\trabalho\listaencadeada\l_din.h
+
